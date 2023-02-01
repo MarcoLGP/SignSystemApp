@@ -1,0 +1,13 @@
+{
+    "editor.codeActionsOnSave": {
+      "source.fixAll.eslint": true
+    },
+    "editor.formatOnSave": true,
+    "[typescriptreact]": {
+      "editor.defaultFormatter": "rvest.vs-code-prettier-eslint"
+    },
+    "[css]": {
+      "editor.defaultFormatter": "vscode.css-language-features"
+    },
+    "typescript.tsdk": "node_modules\\typescript\\lib"
+  }

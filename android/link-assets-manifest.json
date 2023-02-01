@@ -1,0 +1,13 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/OpenSans-SemiBold.ttf",
+      "sha1": "30fcdd8f737e6a86abda2d643d2f23c5286c4663"
+    },
+    {
+      "path": "assets/images/SignSystemLogo.jpg",
+      "sha1": "e683093ddcd58eb7801846b51ed08e64adb107a8"
+    }
+  ]
+}
