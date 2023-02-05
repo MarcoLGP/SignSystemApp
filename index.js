@@ -4,10 +4,10 @@ import {name as appName} from "./app.json";
 
 const AppContainer = () => {
   return (
-    <SafeAreaView>
-      <StatusBar barStyle={"dark-content"} />
+    <>
+      <StatusBar backgroundColor={"black"} />
       <App />
-    </SafeAreaView>
+    </>
   );
 };
 

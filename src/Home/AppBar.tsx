@@ -10,14 +10,15 @@ const AppBar = () => {
 
 const styles = StyleSheet.create({
     container: {
-        height: 60,
+        paddingTop: 5,
+        paddingBottom: 15,
         backgroundColor: "black",
         justifyContent: "center"
     },
     appBarFont: {
         color: "#fff",
         fontFamily: "OpenSans-SemiBold",
-        marginLeft: 15,
+        marginLeft: 10,
         fontSize: 23
     }
 })
